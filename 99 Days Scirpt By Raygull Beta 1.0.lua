@@ -1,3 +1,4 @@
+
 --// 99 Nights in the Forest Script with Rayfield GUI //--
 
 -- Load Rayfield UI Library
@@ -27,6 +28,7 @@ local Window = Rayfield:CreateWindow({
     },
     KeySystem = false,
 })
+
 
 -- Variables
 local teleportTargets = {
